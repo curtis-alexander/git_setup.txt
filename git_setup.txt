@@ -1,0 +1,13 @@
+Live Exercises
+
+The Lead Instructor and all the students remain in the virtual 
+classroom as they tackle the exercises. When students need help, 
+they can send a chat message to the Lead Instructor and the 
+Lead Instructor jumps into a one-on-one video conference to 
+privately answer student questions. At this time, students can share 
+their own screen with the Lead instructor, and can even grant access 
+to the Lead Instructor to remotely type into the student’s computer. 
+This means students can ask instructors or each other for help and 
+get the immediate feedback that is critical to learning.
+
+Modify the pp for git
