@@ -11,3 +11,6 @@ This means students can ask instructors or each other for help and
 get the immediate feedback that is critical to learning.
 
 Modify the pp for git
+
+One more change to make sure we're still good
+
